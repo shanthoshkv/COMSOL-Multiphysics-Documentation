@@ -3,7 +3,7 @@
 ⚠️ **Disclaimer**  
 These resources are **official COMSOL documentation**. I am **not the creator or owner** of these documents. All rights belong to **COMSOL AB**.  
 
-I am sharing this repository because I spent a lot of time and effort searching for this documentation and finally managed to collect it. Since it can be difficult to find in one place, I’m making it available here to help others.  
+I am sharing this repository because I spent a lot of time and effort searching for this documentation and finally managed to collect it. Since it can be difficult to find in one place, I’m making it available here to help others :).  
 
 ---
 
