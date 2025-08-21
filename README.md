@@ -1,4 +1,4 @@
-# COMSOL Multiphysics Documentation Repository
+# COMSOL Multiphysics Documentation
 
 ⚠️ **Disclaimer**  
 These resources are **official COMSOL documentation**. I am **not the creator or owner** of these documents. All rights belong to **COMSOL AB**.  
