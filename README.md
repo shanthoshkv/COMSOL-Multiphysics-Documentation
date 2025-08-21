@@ -68,7 +68,7 @@ This repository contains documentation modules for **COMSOL Multiphysics**, orga
 
 ---
 
-## 🔖 Tags / Hashtags (for discoverability)
+## 🔖 Tags
 
 #COMSOL #COMSOLMultiphysics #COMSOLDocumentation #COMSOLManual #COMSOLHelp #COMSOLGuide  
 #CFD #HeatTransfer #Acoustics #Electromagnetics #Electrochemistry #Plasma #MEMS #Geomechanics  
