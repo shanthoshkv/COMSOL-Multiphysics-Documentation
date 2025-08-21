@@ -68,5 +68,11 @@ This repository contains documentation modules for **COMSOL Multiphysics**, orga
 
 ---
 
-## 🚨 Important Note
-This repository is intended **only for educational and reference purposes**. Please refer to the official COMSOL website for the latest and most complete documentation: [https://www.comsol.com](https://www.comsol.com).
+## 🔖 Tags / Hashtags (for discoverability)
+
+#COMSOL #COMSOLMultiphysics #COMSOLDocumentation #COMSOLManual #COMSOLHelp #COMSOLGuide  
+#CFD #HeatTransfer #Acoustics #Electromagnetics #Electrochemistry #Plasma #MEMS #Geomechanics  
+#StructuralMechanics #BatteryDesign #FuelCell #Optimization #ParticleTracing #WaveOptics #RayOptics  
+#RFModule #Semiconductor #MultibodyDynamics #Rotordynamics #PipeFlow #PolymerFlow #PorousMediaFlow  
+#CADImport #ECADImport #COMSOLMATLAB #COMSOLSimulink #COMSOLExcel #COMSOLAutoCAD #COMSOLInventor  
+#COMSOLCreo #COMSOLRevit #COMSOLSolidEdge #COMSOLSolidWorks #EngineeringSimulation #PhysicsModeling  
